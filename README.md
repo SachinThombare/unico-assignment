@@ -6,8 +6,8 @@
       
     class - unico.web.RestWebService
     
-    a  URL to push message - http://{server}:{port}/unico-assignment-0.1/resources/restwebmessage/pushInQueue
-    b  URL to fetch list of messages - http://{server}:{port}/unico-assignment-0.1/resources/restwebmessage/fetchlist
+    a. URL to push message - http://{server}:{port}/unico-assignment-0.1/resources/restwebmessage/pushInQueue
+    b. URL to fetch list of messages - http://{server}:{port}/unico-assignment-0.1/resources/restwebmessage/fetchlist
     
   B.  JAX-WS
   
